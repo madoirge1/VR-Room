@@ -1,0 +1,4 @@
+repository "VR Room@maximmeee@cloud"
+  path "/"
+    br "/main"
+    co "/main"
